@@ -7,7 +7,7 @@
 
 A comprehensive demonstration of event-driven architecture using Apache Kafka and Spring Cloud Stream. This project showcases real-time data processing, stream analytics, and microservices communication through asynchronous events.
 
-📹 **Demo**: ()
+<img width="1319" height="910" alt="Image" src="https://github.com/user-attachments/assets/d3783187-368b-4149-9748-087f8b81c87a" />
 
 ---
 
